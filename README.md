@@ -36,4 +36,4 @@ Enjoy sliding your way into a delightful user experience!
 
 
 ## 👉You can go through my project: 
-   - link: [![Netlify Status](https://api.netlify.com/api/v1/badges/38eb522c-bba7-45c3-940f-a5df024b12c6/deploy-status)](https://app.netlify.com/sites/sign-in-sign-out/deploys)
+   - link: https://sign-in-sign-out.netlify.app/
