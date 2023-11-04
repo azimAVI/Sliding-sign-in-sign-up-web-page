@@ -33,3 +33,7 @@ We value your feedback! If you have any comments, questions, or feature requests
 Get started with the Sliding-sign-in-sign-up-web-page and provide users with a seamless, visually appealing, and secure sign-in/sign-up experience. Let's revolutionize the way users interact with your web application.
 
 Enjoy sliding your way into a delightful user experience!
+
+
+## 👉You can go through my project: 
+   - link: [![Netlify Status](https://api.netlify.com/api/v1/badges/38eb522c-bba7-45c3-940f-a5df024b12c6/deploy-status)](https://app.netlify.com/sites/sign-in-sign-out/deploys)
