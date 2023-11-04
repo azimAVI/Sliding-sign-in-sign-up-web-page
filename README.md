@@ -35,4 +35,4 @@ Enjoy sliding your way into a delightful user experience!
 
 ## 👉You can go through my project: 
    - link 1: https://sign-in-sign-out.netlify.app/
-   - link 2 :
+   - link 2: https://azimavi.github.io/Sliding-sign-in-sign-up-web-page/
