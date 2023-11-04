@@ -1,8 +1,6 @@
 Sliding-sign-in-sign-up-web-page
 =======================
 
-![Sliding Sign-In/Sign-Up Web Page](sliding-sign-in-sign-up-page.png)
-
 **Sliding-sign-in-sign-up-web-page** is a modern and interactive web page template that enhances the user experience during the sign-in and sign-up process. With a sleek sliding animation, it provides a seamless and engaging interface for users to authenticate and create accounts.
 
 Features
